@@ -1,1 +1,3 @@
 My NEW__commit
+Line 1
+Line 2
